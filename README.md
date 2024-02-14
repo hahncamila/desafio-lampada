@@ -1,0 +1,1 @@
+Nesse programa é possível clicar em um botão de "Ligar" para ligar uma lâmpada, também é possível clicar no botão "Desligar" para desligar a lâmpada e, ao clicar na lâmpada, ela é quebrada e então ambos os botões param de funcionar. 
